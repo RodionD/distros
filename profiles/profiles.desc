@@ -28,4 +28,6 @@ x86		CDS/x86/20					stable
 x86		CLS/x86/20					stable
 x86		CSS/x86/20					stable
 
+arm64 CLDX/arm64/20       stable
+
 # vim: set ts=8
