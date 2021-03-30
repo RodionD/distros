@@ -50,7 +50,7 @@ sys-process/lsof
 
 #?in(os_linux_pkglist, CLD, CLDC, CLDL, CLDM, CLDX, CLDXS)!=#
 app-arch/p7zip
-app-arch/rar
+#app-arch/rar
 app-arch/unzip
 sys-apps/hdparm
 sys-apps/keyexec
