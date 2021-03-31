@@ -7,7 +7,5 @@
 #arch		profile_directory				status
 
 arm64		CLDX/arm64/20					stable
-arm64		CLS/arm64/20					stable
-arm64		CSS/arm64/20					stable
 
 # vim: set ts=8
